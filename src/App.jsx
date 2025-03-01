@@ -6,7 +6,7 @@ import Cart from './pages/Cart/Cart'
 import PlaceHolder from './pages/PlaceHolder/PlaceHolder'
 import Footer from './components/Footer/Footer'
 import LoginPopup from './components/LoginPopup/LoginPopup'
-import About from './components/AboutUs/about'
+import About from './components/AboutUs/About'
 import Contact from './components/Contact/Contact'
 
 const App = () => {
