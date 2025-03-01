@@ -1,0 +1,52 @@
+.contact-page {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact-header {
+    background: #f9f3eb;
+    padding: 20px;
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+  }
+  
+  .contact-info {
+    width: 40%;
+    text-align: left;
+  }
+  
+  .contact-info h3 {
+    color: #dc6d1f;
+  }
+  
+  .contact-info input,
+  .contact-info textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contact-info button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    background: #dc6d1f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-info button:hover {
+    background: black;
+  }
+  
+  .contact-map {
+    width: 55%;
+  }  
