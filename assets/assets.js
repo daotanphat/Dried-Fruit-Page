@@ -125,49 +125,49 @@ export const food_list = [
         image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Salad"
+        category: "Arpicot"
     },
     {
         _id: "2",
         name: "Mận cơm chua ngọt",
-        image: food_2,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Salad"
+        category: "Arpicot"
     }, {
         _id: "3",
         name: "Ô mai đào",
-        image: food_3,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Salad"
+        category: "Arpicot"
     }, {
         _id: "4",
         name: "Ô mai quất hồng bì",
-        image: food_4,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Salad"
+        category: "Arpicot"
     }, {
         _id: "5",
         name: "Sấu xào gừng",
-        image: food_5,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Rolls"
+        category: "Arpicot"
     }, {
         _id: "6",
         name: "Mận dẻo cay",
-        image: food_6,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Rolls"
+        category: "Arpicot"
     }, {
         _id: "7",
         name: "Mận đen xào gừng ko hạt",
-        image: food_7,
+        image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
-        category: "Rolls"
+        category: "Arpicot"
     }
 ]
