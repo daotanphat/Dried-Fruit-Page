@@ -13,8 +13,8 @@ const Footer = () => {
                         giàu dinh dưỡng, phù hợp cho mọi lứa tuổi.</p>
                     <div className="footer-social-icons">
                         <a href='https://www.facebook.com/profile.php?id=61572199116710'><img src={assets.facebook_icon} alt='' /></a>
-                        {/* <img src={assets.twitter_icon} alt='' />
-                  <img src={assets.linkedin_icon} alt='' /> */}
+                        <a href='https://zalo.me/0336384143'><img src={assets.zalo_icon} alt='' /></a>
+                        {/* <img src={assets.linkedin_icon} alt='' /> */}
                     </div>
                 </div>
                 <div className="footer-content-center">
