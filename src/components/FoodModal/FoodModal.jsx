@@ -40,6 +40,14 @@ const FoodModal = ({ initialFood, onClose }) => {
                         <p><strong>Khối lượng:</strong> 200 gram</p>
                         <p><strong>Tình trạng:</strong> Còn hàng</p>
                         <p className="description">{selectedFood.description}</p>
+
+                        {/* "Mua hàng" Button */}
+                        <button
+                            className="buy-button"
+                            onClick={() => window.open(`https://www.facebook.com/messages/t/572325159288591`, '_blank')}
+                        >
+                            Mua hàng
+                        </button>
                     </div>
                 </div>
 
