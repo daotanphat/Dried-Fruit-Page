@@ -11,12 +11,12 @@ import menu_6 from './menu_6.png'
 import menu_7 from './menu_7.png'
 import menu_8 from './menu_8.png'
 
-import food_1 from './dao_deo.jpg'
-import food_2 from './sau_bao_tu.jpg'
-import food_3 from './man_xao.jpg'
-import food_4 from './mo_gung.jpg'
-import food_5 from './man_com.jpg'
-import food_6 from './dao_bao_tu.jpg'
+import food_1 from './man_xao_gung.jpg'
+import food_2 from './man_com_chua_ngot.jpg'
+import food_3 from './man_den.jpg'
+import food_4 from './o_mai_quat_hong_bi.jpg'
+import food_5 from './sau_bao_tu.jpg'
+import food_6 from './man_deo_cay.jpg'
 
 import add_icon_white from './add_icon_white.png'
 import add_icon_green from './add_icon_green.png'
@@ -95,7 +95,7 @@ export const menu_list = [
 export const food_list = [
     {
         _id: "1",
-        name: "Đào dẻo",
+        name: "Mận xào gừng",
         image: food_1,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
@@ -103,35 +103,35 @@ export const food_list = [
     },
     {
         _id: "2",
-        name: "Sấu bao tử",
+        name: "Mận cơm chua ngọt",
         image: food_2,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
         category: "Arpicot"
     }, {
         _id: "3",
-        name: "Mận xào gừng",
+        name: "Mận đen xào gừng không hạt",
         image: food_3,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
         category: "Arpicot"
     }, {
         _id: "4",
-        name: "Mơ gừng",
+        name: "Ô mai quất hồng bì",
         image: food_4,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
         category: "Arpicot"
     }, {
         _id: "5",
-        name: "Mận cơm",
+        name: "Sấu xào gừng",
         image: food_5,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
         category: "Arpicot"
     }, {
         _id: "6",
-        name: "Đào bao tử",
+        name: "Mận dẻo cay",
         image: food_6,
         price: 40000,
         description: "Thông tin sản phẩm đang được cập nhật",
